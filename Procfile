@@ -1,1 +1,1 @@
-web: gunicorn big-brother-on-campus.wsgi
+web: gunicorn BigBrotherOnCampus.wsgi
