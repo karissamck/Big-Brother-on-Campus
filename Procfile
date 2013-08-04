@@ -1,1 +1,1 @@
-web: gunicorn hellodjango.wsgi
+web: gunicorn big-brother-on-campus.wsgi
